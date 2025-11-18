@@ -36,15 +36,15 @@ This dashboard tracks key cryptocurrency performance indicators that provide ins
 
 ### 🏆 Market Cap Analysis
 - **Market Capitalization**: Total value of circulating supply (Price × Circulating Supply). Used to rank cryptocurrencies and assess relative size and stability.
-- **Rank by Market Cap**: Filters help focus on established assets (Top 100) versus emerging/speculative projects outside top rankings.
+- **Rank by Market Cap**: Filters help focus on established assets (Top 100) versus emerging/speculative projects outside of the top rankings.
 
 ### 🔄 Comparative Metrics
-- **Top 10 Gainers/Losers (24h)**: Identifies momentum plays and potential volatility. Limited to top 100 by market cap to filter out microcap pump-and-dump schemes.
+- **Top 10 Gainers/Losers (24h)**: Identifies momentum plays and potential volatility. Limited to top 100 by market cap to filter out pump-and-dump schemes.
 
 ## 💼 Business Insights
 
 ### 1. 📈 Market Sentiment & Trend Identification
-The dashboard reveals broad market sentiment through the Gainers vs. Losers analysis. When the majority of top 100 coins show positive 24h changes, it indicates bullish market conditions (often called "altcoin season"). Conversely, widespread losses suggest risk-off sentiment or market corrections. This helps investors time entry/exit points and adjust portfolio risk exposure.
+The dashboard reveals broad market sentiment through the Gainers vs. Losers analysis. When the majority of top 100 coins show positive 24h changes, it indicates bullish market conditions (often called "altcoin season"). Conversely, widespread losses suggest risk-off sentiment or market corrections. This helps investors time entry or exit points and adjust portfolio risk exposure.
 
 ### 2. ⚠️ Volatility & Risk Assessment
 By analyzing 24h price changes alongside trading volume, users can identify highly volatile assets that may present trading opportunities or heightened risk. Coins with large price swings on low volume indicate thin liquidity and potential for manipulation, while high-volume movements suggest genuine market interest.
@@ -54,7 +54,6 @@ The ATH/ATL metrics help identify assets trading at significant discounts from h
 
 ### 4. 💧 Liquidity & Trading Execution
 Volume analysis is critical for traders planning large positions. High 24h volume indicates deep liquidity, enabling easier order execution without significant price impact (slippage). Low-volume coins may require limit orders or smaller position sizes to avoid adverse price movements.
-
 ### 5. 🎯 Market Cap Concentration & Diversification
 By filtering through different market cap tiers, investors can assess concentration risk. If Bitcoin and Ethereum dominate total market cap, altcoins may be underperforming. If smaller cap coins show strong gains, it suggests risk appetite is increasing.
 
